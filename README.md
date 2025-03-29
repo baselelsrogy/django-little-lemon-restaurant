@@ -15,4 +15,4 @@ The project follows best practices in Django development and can be customized f
 - CSS 
 
 ## Tags  
-`#Django` `#Python` `#RestaurantWebsite` `#WebDevelopment` `#BookingSystem` `#MenuPage` `#HTML` `#CSS` `#JavaScript` `#Bootstrap` `#OpenSource`
+`#Django` `#Python` `#RestaurantWebsite` `#WebDevelopment` `#BookingSystem` `#MenuPage` `#HTML` `#CSS` `#OpenSource`
